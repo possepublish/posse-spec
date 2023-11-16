@@ -1,9 +1,9 @@
 {
-    "name": "theothernic/posse-spec",
+    "name": "possepublish/posse-spec",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Theothernic\\PosseSpec\\": "src/"
+            "PossePublish\\PosseSpec\\": "src/"
         }
     },
     "authors": [

@@ -1,7 +1,7 @@
 <?php
-    namespace Theothernic\PosseSpec\Interfaces;
+    namespace PossePublish\PosseSpec\Interfaces;
 
-    use Theothernic\PosseSpec\Models\Content;
+    use PossePublish\PosseSpec\Models\Content;
 
     interface ISyndicatable
     {
